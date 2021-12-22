@@ -1,2 +1,2 @@
 # solid-principle-php
-Knowledge about SOLID principle
+Overview of SOLID principles and some illustrative examples.
